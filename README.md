@@ -1,12 +1,14 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/01/42/19/01/1000_F_142190153_rNMUH6hlaxEBOKOn9SF3AazorGcoGJrx.jpg)](https://mohit10009.github.io/Myportfolio/)
 <h1 align="center">Hi 👋, I'm Vivek Chaudhary</h1>
-<h3 align="center">A passionate Competitive Programmers from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-8877&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-8877" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-8877" alt="vivek-8877" /></a> </p>
+
+- 🔭 I’m currently Studying **Electronic & Communication Engineering**
 
 - ⚡ Fun fact **I think I am Funny😂**
 
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-8877&show_icons=true&locale=en" alt="vivek-8877" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-8877&" alt="vivek-8877" /></p>
-
