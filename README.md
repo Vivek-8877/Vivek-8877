@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivek8877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek8877" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code - गुरू" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC1P9bWDLTPS1Zp03m5PQEoQ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code - गुरू" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Code_Guru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivek_8877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek_8877" height="30" width="40" /></a>
 </p>
 
